@@ -1,0 +1,20 @@
+{
+	"time": "Sat Sep 29 2018 22:52:42 GMT+0100 (British Summer Time)",
+	"nativePlatformStatus": "3",
+	"bundle": false,
+	"release": false,
+	"changesRequireBuild": false,
+	"projectFileHash": "aae8fd951b3f717c45babdb1cc6df6e8a540c6419b4af8eb7fcb6c7c92c8b2c5",
+	"changesRequireBuildTime": "Sat Sep 29 2018 13:37:01 GMT+0100 (British Summer Time)",
+	"appFilesHashes": {
+		"/media/dropbox/Dropbox/Private/Development/Nativescript/TTest4/app/app-root.xml": "900a386cb2d8abc9573413eb3aff45448dcd3608",
+		"/media/dropbox/Dropbox/Private/Development/Nativescript/TTest4/app/app.css": "5b9e8b6038fb119c978acf303123f245322dfa4d",
+		"/media/dropbox/Dropbox/Private/Development/Nativescript/TTest4/app/app.js": "b99b8400f3d679ef0e4da0ccd015592281d4eae0",
+		"/media/dropbox/Dropbox/Private/Development/Nativescript/TTest4/app/main-page.js": "7adfd99aae0513d5068fde7f9f3b5970fb9cd0ec",
+		"/media/dropbox/Dropbox/Private/Development/Nativescript/TTest4/app/main-page.xml": "dbed513d09e723d08a2e2fecc88c0d71a8af5815",
+		"/media/dropbox/Dropbox/Private/Development/Nativescript/TTest4/app/main-view-model.js": "55fd74a2868198e0f6476b8d94fadefd18328219",
+		"/media/dropbox/Dropbox/Private/Development/Nativescript/TTest4/app/package.json": "554a1e7b09cfa1663c75683765118999cb11411a",
+		"/media/dropbox/Dropbox/Private/Development/Nativescript/TTest4/app/references.d.ts": "c83a3304d98c2586359871f5d8ac10c8aa8af848",
+		"/media/dropbox/Dropbox/Private/Development/Nativescript/TTest4/app/test.sqlite": "2953e909ee6f6c7d0aa98bc900928a9959affa3f"
+	}
+}

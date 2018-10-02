@@ -1,0 +1,17 @@
+/home/adam/Android/Sdk/platforms/android-27/android.jar
+/media/dropbox/Dropbox/Private/Development/Nativescript/TTest4/platforms/android/app/build/exploded-dependencies/0/classes.jar
+/media/dropbox/Dropbox/Private/Development/Nativescript/TTest4/platforms/android/app/build/exploded-dependencies/1/classes.jar
+/media/dropbox/Dropbox/Private/Development/Nativescript/TTest4/platforms/android/app/build/exploded-dependencies/10/classes.jar
+/media/dropbox/Dropbox/Private/Development/Nativescript/TTest4/platforms/android/app/build/exploded-dependencies/11/classes.jar
+/media/dropbox/Dropbox/Private/Development/Nativescript/TTest4/platforms/android/app/build/exploded-dependencies/12/classes.jar
+/media/dropbox/Dropbox/Private/Development/Nativescript/TTest4/platforms/android/app/build/exploded-dependencies/13/classes.jar
+/media/dropbox/Dropbox/Private/Development/Nativescript/TTest4/platforms/android/app/build/exploded-dependencies/14/classes.jar
+/media/dropbox/Dropbox/Private/Development/Nativescript/TTest4/platforms/android/app/build/exploded-dependencies/15/support-annotations-26.0.0-alpha1.jar
+/media/dropbox/Dropbox/Private/Development/Nativescript/TTest4/platforms/android/app/build/exploded-dependencies/2/classes.jar
+/media/dropbox/Dropbox/Private/Development/Nativescript/TTest4/platforms/android/app/build/exploded-dependencies/3/classes.jar
+/media/dropbox/Dropbox/Private/Development/Nativescript/TTest4/platforms/android/app/build/exploded-dependencies/4/classes.jar
+/media/dropbox/Dropbox/Private/Development/Nativescript/TTest4/platforms/android/app/build/exploded-dependencies/5/classes.jar
+/media/dropbox/Dropbox/Private/Development/Nativescript/TTest4/platforms/android/app/build/exploded-dependencies/6/classes.jar
+/media/dropbox/Dropbox/Private/Development/Nativescript/TTest4/platforms/android/app/build/exploded-dependencies/7/classes.jar
+/media/dropbox/Dropbox/Private/Development/Nativescript/TTest4/platforms/android/app/build/exploded-dependencies/8/classes.jar
+/media/dropbox/Dropbox/Private/Development/Nativescript/TTest4/platforms/android/app/build/exploded-dependencies/9/classes.jar
